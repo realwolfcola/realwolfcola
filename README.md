@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🤖 I'm trying to learn this, so bear with me cause I'm a **huge** idiot.
+
+
 <!--
 **realwolfcola/realwolfcola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
